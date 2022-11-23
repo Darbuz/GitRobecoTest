@@ -7,3 +7,5 @@ should it work?
 
 new lines
 new test
+something else
+A bit more
